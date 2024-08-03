@@ -5,3 +5,5 @@ instructor
 pydantic
 python-dotenv
 ratelimit
+groq
+anthropic
